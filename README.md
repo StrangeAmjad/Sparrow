@@ -8,7 +8,7 @@ Sparrow is a Windows desktop media tracker and player designed to help you organ
 - Metadata Parsing: Sparrow attempts to parse filenames and organize your media by title, season, and episode.
 - Subtitle Support: Load external subtitles or automatically download subtitles for your videos.
 - Intro Skip: Automatically skip TV show intros.
-#Screenshots
+# Screenshots
 <!-- Replace these placeholders with your own screenshots -->
 Library View
 ![image](https://github.com/user-attachments/assets/eb65772d-2f00-4988-9242-a99b3ea40ea1)
