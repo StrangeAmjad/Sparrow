@@ -10,11 +10,11 @@ Sparrow is a Windows desktop media tracker and player designed to help you organ
 - Intro Skip: Automatically skip TV show intros.
 # Screenshots
 <!-- Replace these placeholders with your own screenshots -->
-Library View
+## Library View
 ![image](https://github.com/user-attachments/assets/eb65772d-2f00-4988-9242-a99b3ea40ea1)
 
-Player View
+## Player View
 ![image](https://github.com/user-attachments/assets/94d986ea-ca24-458f-a966-2757b0c24e7b)
 
-Settings
+## Settings
 ![image](https://github.com/user-attachments/assets/55cd20b5-4353-4f12-8f7c-8fd279378fb0)
