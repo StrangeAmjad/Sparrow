@@ -18,3 +18,8 @@ Sparrow is a Windows desktop media tracker and player designed to help you organ
 
 **Settings**
 ![image](https://github.com/user-attachments/assets/55cd20b5-4353-4f12-8f7c-8fd279378fb0)
+
+**Library**
+![image](https://github.com/user-attachments/assets/83123848-7c90-4560-9e74-0518dbba38cb)
+
+![image](https://github.com/user-attachments/assets/4e0d11a7-db73-481d-9249-55c695ebaa0a)
